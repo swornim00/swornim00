@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello Friend
 
-<!--
-**swornim00/swornim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! If you want to contribute to any project I'm working on: reach out to repo, I always create issues. Fork it, work it and send a PR! 
+- I'm learning reverse engineering
+- I'm working on in-house projects in my company.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Secrets about me
+- I make music
+- Coffee-holic
+- Workaholic
+- Little bit extrovert
+- A lot introvert
+- Electronics engineer by degress
+- Musician by passion
+- Hacker by heart.
